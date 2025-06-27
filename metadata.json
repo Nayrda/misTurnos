@@ -1,0 +1,6 @@
+{
+  "name": "MisTurnos",
+  "description": "Una aplicación para gestionar y visualizar tus turnos de trabajo en un calendario. Permite añadir notas, personalizar los horarios y colorear los días según el turno.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
